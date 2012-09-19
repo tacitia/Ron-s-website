@@ -1,6 +1,11 @@
 #content {
-    font-family: 'Jacques Francois', serif;
+    font-family: 'Orienta', sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 800px;
+    border:1px dashed;
+}
+
+#contact_right {
+    margin-right: 0px;
 }
