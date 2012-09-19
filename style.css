@@ -1,11 +1,18 @@
 #content {
-    font-family: 'Orienta', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
+    width: 900px;
     border:1px dashed;
+    position: relative;
 }
 
 #contact_right {
     margin-right: 0px;
 }
+
+.section {
+    margin-left: 20px:
+    margin-right: 20px;
+}
+
